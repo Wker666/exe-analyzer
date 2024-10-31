@@ -1,6 +1,8 @@
 ## exe analyzer
 一款64位Exe程序动态追踪执行流程以及保存信息的工具
 
+演示以及讲解视频：https://www.bilibili.com/video/BV1VdSHYUE4Q/
+
 ### 安装
 程序分为三部分
 
