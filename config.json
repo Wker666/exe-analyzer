@@ -1,0 +1,12 @@
+{
+  "debug": 0,
+  "func": 1,
+  "app": "test-sample\\TestExe.exe",
+  "params": "",
+  "pid": 0,
+  "start": 0,
+  "end": 0,
+  "workspace": "C:\\Users\\User\\workspace",
+  "pythonhome": "pythonhome",
+  "mainfile": "plugin\\start.py"
+}
